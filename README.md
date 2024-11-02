@@ -1,6 +1,6 @@
 # polkadot-agent
 
-LLM powered agent that can do cool stuff.
+LLM powered agent that can do cool stuff. It is pre-configured to work on the Polkadot testnet right out of the box.
 
 Using Python 3, set things up with:
 
@@ -13,10 +13,11 @@ OPENAI_API_KEY=<your-key> python3 main.py
 The first time you'll run it, it will tell you: 
 
 ```
-Error: Insufficient funds. Please send faucet tokens to this address and restart the program: 5FRhzfdZE7pvAS3FxX24uDLEifQwR22ee65a62Ty22z6xjXq on https://faucet.polkadot.io
+Error: Insufficient funds. Please send faucet tokens to this address and restart the program: 
+5FRhzfdZE7pvAS3FxX24uDLEifQwR22ee65a62Ty22z6xjXq on https://faucet.polkadot.io
 ```
 
-But worry not, your bot now has it's own wallet, the keys are in keys.json, and when you restart it after having funded the wallet, it will work.
+But worry not, your bot now has it's own wallet, the keys are in keys.json. If you fund the wallet by using https://faucet.polkadot.io and restart the program, it will work. If not, create an issue and I'll fix stuff. 
 
 Have fun. 
 
