@@ -1,6 +1,6 @@
-# polkadot-agent
+# Build your own Polkadot LLM agent
 
-LLM powered agent that can do cool stuff. It is pre-configured to work on the Polkadot testnet right out of the box.
+A bot that has a Polkadot wallet that can do some tricks. It is pre-configured to work on the Polkadot testnet right out of the box.
 
 Using Python 3, set things up with:
 
