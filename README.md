@@ -29,6 +29,8 @@ Have fun.
 
 ## Example chat
 
+(I think the LLM took pity of my silly joke lol)
+
 **User**: I have a new cool Polkadot proposal, how can I submit it?
 
 **Triage Agent**: switch_to_polkadot_pete()
@@ -56,6 +58,8 @@ Remember, a stable and secure network makes for a happy blockchain! If you've go
 **Polkadot Pete**: Why did the chicken cross the road? Surely to escape the tyrannical rule of centralized networks and join the decentralized world of Polkadot, where everyone has a fair say! 🐔
 
 If you've got a punchline that beats that, I'm ready to be amused.
+
+
 **User**: Because it had to go to work!
 
 
