@@ -64,6 +64,7 @@ If you've got a punchline that beats that, I'm ready to be amused.
 Your humor earns you a little reward. Please provide me with your Polkadot address so that I can send a little something your way!
 
 **User**: lskdlqsmkfqsmlgfkqsf
+
 **Polkadot Pete**: That doesn't quite look like a valid Polkadot address, but it sure looks like what happens when a cat walks across a keyboard! 😸
 
 Feel free to try again with your actual Polkadot address if you'd like to receive a reward for your joke!
