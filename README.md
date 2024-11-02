@@ -14,7 +14,7 @@ The first time you'll run it, it will tell you:
 
 ```
 Error: Insufficient funds. Please send faucet tokens to this address and restart the program: 
-5FRhzfdZE7pvAS3FxX24uDLEifQwR22ee65a62Ty22z6xjXq on https://faucet.polkadot.io
+<some_address> on https://faucet.polkadot.io
 ```
 
 But worry not, your bot now has it's own wallet, the keys are in keys.json. If you fund the wallet by using https://faucet.polkadot.io and restart the program, it will work. If not, create an issue and I'll fix stuff. 
