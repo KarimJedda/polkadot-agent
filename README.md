@@ -5,7 +5,7 @@ LLM powered agent that can do cool stuff.
 Using Python 3, set things up with:
 
 ```
-pip install -r requirements.txt`
+pip install -r requirements.txt
 
 OPENAI_API_KEY=<your-key> python3 main.py
 ```
